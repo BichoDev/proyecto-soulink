@@ -2,6 +2,34 @@
   🌐 Soulink - Proyecto Web 🌐
 </h1>
 
+## 👥 Integrantes del equipo
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+## 👥 Equipo Q-ERO v3 Protocol
+
+- Agustín Valenzuela
+- Karim Valenzuela  
+- Javier Valenzuela   
+- Anita Morales  
+- Nicolás Peña 
+- Mauricio Narváez
+- Vicente Díaz
+
+
+</td>
+<td align="center" valign="middle" width="320">
+  <img src="./img/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="270">
+</td>
+</tr>
+</table>
+
+</div>
+
  ## 📋 Descripción
 Repositorio principal para el desarrollo del sitio web de Soulink. Este proyecto contiene la implementación progresiva de la plataforma, incluyendo el frontend, componentes UI y la estructura completa del sitio.
 ## 🚀 Características
@@ -42,6 +70,7 @@ proyecto-soulink/
 ```
 ## 📸 Screenshots - Sección "Acerca de"
 
-![Diseño de la sección Acerca de]
-Interfaz principal de la sección "Acerca de" con información del equipo y misión
-![Vista móvil Acerca de](https://via.placeholder.com/400x700/9013FE/FFFFFF?text=Mobile+Version)
+![Pantalla 1](assets/images/screenshots/Screenshots_acerca.png)
+
+![Pantalla 2](assets/images/screenshots/Screenshots_acerca2.png)
+
