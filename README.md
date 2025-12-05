@@ -70,7 +70,7 @@ proyecto-soulink/
 ```
 ## 📸 Screenshots - Sección "Acerca de"
 
-![Pantalla 1](assets/images/screenshots/Screenshots_acerca.png)
+![Pantalla 1](assets/images/Screenshots_acerca.png)
 
-![Pantalla 2](assets/images/screenshots/Screenshots_acerca2.png)
+![Pantalla 2](assets/images/Screenshots_acerca2.png)
 
